@@ -1,0 +1,43 @@
+---
+title: "William D. Dupont"
+output:
+  prettydoc::html_pretty:
+    theme: cayman
+    toc: no
+---
+
+<style>
+div#contact {display: table;}
+div.img  {vertical-align: middle; display: table-cell; padding-right:20px;}
+div.text {vertical-align: middle; display: table-cell;}
+</style>
+
+<div id="contact">
+
+<div class="img"><img src="photos/Dupont_William.jpg" width="200"/></div>
+<div class="text">
+**Professor of Biostatistics and Health Policy**<br/>
+Director, Nashville Breast Cohort Study<br/>
+<br/>
+2525 West End Avenue, Suite 1100<br/>
+Room / SuiteRoom 11124<br/>
+Nashville Tennessee 37203<br/>
+<br/>
+&#x28;615&#x29; 343-4100<br/>
+[william.dupont\@vumc.org](mailto:william.dupont@vumc.org)<br/>
+<br/>
+PhD, Biostatistics, Johns Hopkins University
+</div>
+</div>
+
+<br/>
+
+## Research Interests
+
+Epidemiology, breast disease, cancer, genetics, hormonal replacement therapy, screening, power and sample calculations, data management, data quality assurance, clinical trials, stopping rules, foundations of statistical inference, likelihood methods
+
+## Selected Honors
+
+* Fellow, American Statistical Association (elected 2009)
+* Ernest W. Goodpasture Award for Groundbreaking Research, 2003
+* Academy for Excellence in Education (elected 2021)
