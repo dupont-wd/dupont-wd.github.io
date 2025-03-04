@@ -1,0 +1,18 @@
+1) Install git
+2) Create or open project
+
+Any new device needs a key uploaded, search for github guide. 
+
+git remote add origin git@github.com:dupont-wd/dupont-wd.github.io.git
+
+The password for my work computer (which I don't think I need) is
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAID8aZNHr8oOsGP2Kx3IGYc7bFGTNzEb3Ng+MJXB9PsGc william.dupont@vumc.org
+
+To publish changes go to 
+Tools --> version control --> committ...
+Then 
+Tools --> version control --> Push Branch
+
+I think.  I could not get this to work.
+
+The RStudio program for my web page is index.Rmd
