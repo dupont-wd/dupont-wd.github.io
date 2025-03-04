@@ -154,3 +154,4 @@ I have collaborated as a co-investigator and biostatistician with Dr. Tina V. Ha
 * [8.8.2.Survival.dta](./Data/8.8.2.Survival.dta)
 * [8.ex.InjuryDeath.dta](./Data/8.ex.InjuryDeath.dta)
 * [sepsis.bk2.dta](./Data/sepsis.bk2.dta)
+* [vital_c.dta](./Data/vital_c.dta)
