@@ -193,4 +193,46 @@ Snyder BM, Gebretsadik T, Rohrig NB, Wu P, Dupont WD, Dabelea DM, Fry RC, Lynch 
 * [11.2.long.isoproterenol.dta](./Data/Analysis of Variance/11.2.long.isoproterenol.dta)
 * [11.2.long.isoproterenol.dta](./Data/Analysis of Variance/11.2.long.isoproterinol.dta)
 
+### Conditional logistic regression
+
+* [Asthma.dta](./Data/Conditional logistic regression/Asthma.dta)
+
+### Poisson regression
+
+* [injuryPo.dta](./Data/Poisson/injuryPo.dta)
+* [2.20.Framingham.dta](./Data/Poisson/2.20.Framingham.dta)
+* [8.2.Framingham.dta](./Data/Poisson/8.2.Framingham.dta)
+* [8.7.Framingham.bk1.dta](./Data/Poisson/8.7.Framingham.bk1.dta)
+* [8.8.2.Person-Years.dta](./Data/Poisson/8.8.2.Person-Years.dta)
+* [8.8.2.Survival.dta](./Data/Poisson/8.8.2.Survival.dta)
+* [8.12.Framingham.dta](./Data/Poisson/8.12.Framingham.dta)
+
+### Review data sets
+
+* [review4HIV_RHCsurvival.dta](./Data/Review data sets/review4HIV_RHCsurvival.dta)
+* [review5HIV_RHCpoisson.dta](./Data/Review data sets/review5HIV_RHCpoisson.dta)
+* [review6LongitudinalStrep.dta](./Data/Review data sets/review6LongitudinalStrep.dta)
+* [review6LongitudinalStrep_long.dta](./Data/Review data sets/review6LongitudinalStrep_long.dta)
+* [review6LongitudinalStrep_Wide.dta](./Data/Review data sets/review6LongitudinalStrep_Wide.dta)
+* [review1BirthWeightAgeSmoking.dta](./Data/Review data sets/review1BirthWeightAgeSmoking.dta)
+* [review2BweightAgeSmokeRace.dta](./Data/Review data sets/review2BweightAgeSmokeRace.dta)
+* [review3BirthWeightAgeGroupedData.dta](./Data/Review data sets/review3BirthWeightAgeGroupedData.dta)
+
+### Survival analysis
+
+* [Framingham.Competing.dta](./Data/Survival Analysis/Framingham.Competing.dta)
+* [lymphoma.dta](./Data/Survival Analysis/lymphoma.dta)
+* [NBC_40yearsJittered.dta](./Data/Survival Analysis/NBC_40yearsJittered.dta)
+* [plot.dta](./Data/Survival Analysis/plot.dta)
+* [plot47.dta](./Data/Survival Analysis/plot47.dta)
+* [plot57.dta](./Data/Survival Analysis/plot57.dta)
+* [plotmen.dta](./Data/Survival Analysis/plotmen.dta)
+* [plotold.dta](./Data/Survival Analysis/plotold.dta)
+* [plotwomen.dta](./Data/Survival Analysis/plotwomen.dta)
+* [2.20.Framingham.dta](./Data/Survival Analysis/2.20.Framingham.dta)
+* [a.dta](./Data/Survival Analysis/a.dta)
+* [b.dta](./Data/Survival Analysis/b.dta)
+* [Breast.dta](./Data/Survival Analysis/Breast.dta)
+* [cummorb.dta](./Data/Survival Analysis/cummorb.dta)
+
 
