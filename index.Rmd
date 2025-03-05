@@ -121,10 +121,28 @@ I have collaborated as a co-investigator and biostatistician with Dr. Tina V. Ha
 
 * Brunwasser SM, Snyder BM, Driscoll AJ, Fell DB, Savitz DA, Feikin DR, Skidmore B, Bhat N, Bont LJ, Dupont WD, Wu P, Gebretsadik T, Holt PG, Zar HJ, Ortiz JR, Hartert TV. Assessing the strength of evidence for a causal effect of respiratory syncytial virus lower respiratory tract infections on subsequent wheezing illness: a systematic review and meta-analysis. Lancet Respir Med. 2020;8(8):795-806. PMCID: PMC7464591.
 * Chirkova T, Rosas-Salazar C, Gebretsadik T, Jadhao SJ, Chappell JD, Peebles RS, Jr., Dupont WD, Newcomb DC, Berdnikovs S, Gergen PJ, Hartert TV, Anderson LJ. Effect of Infant RSV Infection on Memory T Cell Responses at Age 2-3 Years. Front Immunol. 2022;13:826666. PMCID: PMC8967987.
-* Snyder BM, Gebretsadik T, Rohrig NB, Wu P, Dupont WD, Dabelea DM, Fry RC, Lynch SV, McEvoy CT, Paneth NS, Ryckman KK Gern JE Hartert TV. The Associations of Maternal Health Characteristics, Newborn Metabolite Concentrations, and Child Body Mass Index among US Children in the ECHO Program. Metabolites. 2023;13(4):510. PMCID: PMC10144800.
+* 
+Snyder BM, Gebretsadik T, Rohrig NB, Wu P, Dupont WD, Dabelea DM, Fry RC, Lynch SV, McEvoy CT, Paneth NS, Ryckman KK Gern JE Hartert TV. The Associations of Maternal Health Characteristics, Newborn Metabolite Concentrations, and Child Body Mass Index among US Children in the ECHO Program. Metabolites. 2023;13(4):510. PMCID: PMC10144800.
 * Rosas-Salazar C, Chirkova T, Gebretsadik T, Chappell JD, Peebles RS, Jr., Dupont WD, Jadhao SJ, Gergen PJ, Anderson LJ, Hartert TV. Respiratory syncytial virus infection during infancy and asthma during childhood in the USA (INSPIRE): a population-based, prospective birth cohort study. Lancet. 2023; 20;401(10389):1669-1680. https://doi.org/10.1016/S0140-6736(23)00811-5. PMCID: PMC10367596.
  
-### Data from Statistical Modeling for Biomedical Researchers
+## Data from Statistical Modeling for Biomedical Researchers
+
+### Linear Regression
+
+* [2.18.Funding.dta](./Data/2.18.Funding.dta)
+* [2.20.Framingham.dta](./Data/2.20.Framingham.dta)
+* [2.20.framingham.xls](./Data/2.20.framingham.xls)
+* [3.ex.Funding.dta](./Data/3.ex.Funding.dta)
+* [8.12.Framingham.dta](./Data/8.12.Framingham.dta)
+* [8.7.Framingham.dta](./Data/8.7.Framingham.dta)
+* [vital_c.dta](./Data/vital_c.dta) 
+* [2.18.Funding.dta](./Data/2.18.Funding.dta)
+* [2.20.Framingham.dta](./Data/2.20.Framingham.dta)
+* [3.25.2.SUPPORT.dta](./Data/3.25.2.SUPPORT.dta)
+* [GlobalMeanTempByYear.dta](./Data/GlobalMeanTempByYear.dta)
+* [GlobalMeanTempByYear2016.dta](./Data/GlobalMeanTempByYear2016.dta)
+
+### Logistic Regression
 
 * [1.3.2.Sepsis.bk1.dta](./Data/1.3.2.Sepsis.bk1.dta)
 * [1.3.2.Sepsis.dta](./Data/1.3.2.Sepsis.dta)
@@ -135,11 +153,7 @@ I have collaborated as a co-investigator and biostatistician with Dr. Tina V. Ha
 * [11.AreaUnderCurve.dta](./Data/11.AreaUnderCurve.dta)
 * [11.ex.Sepsis.dta](./Data/11.ex.Sepsis.dta)
 * [2.12.Poison.dta](./Data/2.12.Poison.dta)
-* [2.18.Funding.dta](./Data/2.18.Funding.dta)
-* [2.20.Framingham.dta](./Data/2.20.Framingham.dta)
-* [2.20.framingham.xls](./Data/2.20.framingham.xls)
 * [2.ex.vonHippelLindau.dta](./Data/2.ex.vonHippelLindau.dta)
-* [3.ex.Funding.dta](./Data/3.ex.Funding.dta)
 * [4.11.Sepsis.dta](./Data/4.11.Sepsis.dta)
 * [4.18.Sepsis.dta](./Data/4.18.Sepsis.dta)
 * [4.21.EsophagealCa.dta](./Data/4.21.EsophagealCa.dta)
@@ -148,16 +162,8 @@ I have collaborated as a co-investigator and biostatistician with Dr. Tina V. Ha
 * [5.ex.InjuryDeath.dta](./Data/5.ex.InjuryDeath.dta)
 * [6.9.Hemorrhage.dta](./Data/6.9.Hemorrhage.dta)
 * [6.ex.Breast.dta](./Data/6.ex.Breast.dta)
-* [8.12.Framingham.dta](./Data/8.12.Framingham.dta)
-* [8.7.Framingham.dta](./Data/8.7.Framingham.dta)
 * [8.8.2.Person-Years.dta](./Data/8.8.2.Person-Years.dta)
 * [8.8.2.Survival.dta](./Data/8.8.2.Survival.dta)
 * [8.ex.InjuryDeath.dta](./Data/8.ex.InjuryDeath.dta)
 * [sepsis.bk2.dta](./Data/sepsis.bk2.dta)
-* [vital_c.dta](./Data/vital_c.dta) 
-* [2.18.Funding.dta](./Data/2.18.Funding.dta)
-* [2.20.Framingham.dta](./Data/2.20.Framingham.dta)
-* [3.25.2.SUPPORT.dta](./Data/3.25.2.SUPPORT.dta)
 * [effect of order on line plots.dta](./Data/effect of order on line plots.dta)
-* [GlobalMeanTempByYear.dta](./Data/GlobalMeanTempByYear.dta)
-* [GlobalMeanTempByYear2016.dta](./Data/GlobalMeanTempByYear2016.dta)
