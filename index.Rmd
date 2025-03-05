@@ -156,4 +156,8 @@ I have collaborated as a co-investigator and biostatistician with Dr. Tina V. Ha
 * [sepsis.bk2.dta](./Data/sepsis.bk2.dta)
 * [vital_c.dta](./Data/vital_c.dta) 
 * [2.18.Funding.dta](./Data/2.18.Funding.dta)
-
+* [2.20.Framingham.dta](./Data/2.20.Framingham.dta)
+* [3.25.2.SUPPORT.dta](./Data/3.25.2.SUPPORT.dta)
+* [effect of order on line plots.dta](./Data/effect of order on line plots.dta)
+* [GlobalMeanTempByYear.dta](./Data/GlobalMeanTempByYear.dta)
+* [GlobalMeanTempByYear2016.dta](./Data/GlobalMeanTempByYear2016.dta)
