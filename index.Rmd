@@ -136,13 +136,16 @@ Snyder BM, Gebretsadik T, Rohrig NB, Wu P, Dupont WD, Dabelea DM, Fry RC, Lynch 
 * [8.12.Framingham.dta](./Data/8.12.Framingham.dta)
 * [8.7.Framingham.dta](./Data/8.7.Framingham.dta)
 * [vital_c.dta](./Data/vital_c.dta) 
-* [2.18.Funding.dta](./Data/2.18.Funding.dta)
-* [2.20.Framingham.dta](./Data/2.20.Framingham.dta)
 * [3.25.2.SUPPORT.dta](./Data/3.25.2.SUPPORT.dta)
 * [GlobalMeanTempByYear.dta](./Data/GlobalMeanTempByYear.dta)
 * [GlobalMeanTempByYear2016.dta](./Data/GlobalMeanTempByYear2016.dta)
+* [EffectOfOrderOnLinePlots.dta](./Data/linearRegression/EffectOfOrderOnLinePlots.dta)
+* [triceps.dta](./Data/linearRegression/triceps.dta)
+* [rostab11.dta](./Data/linearRegression/rostab11.dta)
+* [hospital.master.dta](./Data/linearRegression/hospital.master.dta)
+* [hospital.dta](./Data/linearRegression/hospital.dta)
 
-### Logistic Regression
+### Logistic Regression   
 
 * [1.3.2.Sepsis.bk1.dta](./Data/1.3.2.Sepsis.bk1.dta)
 * [1.3.2.Sepsis.dta](./Data/1.3.2.Sepsis.dta)
