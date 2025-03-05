@@ -180,3 +180,17 @@ Snyder BM, Gebretsadik T, Rohrig NB, Wu P, Dupont WD, Dabelea DM, Fry RC, Lynch 
 * [cervix_ca.dta](./Data/logistic regression/cervix_ca.dta)
 * [CCinjDeath.dta](./Data/logistic regression/CCinjDeath.dta)
 
+### Analysis of Variance
+
+* [11.AreaUnderCurve1.dta](./Data/Analysis of Variance/11.AreaUnderCurve1.dta)
+* [11.ex.Sepsis.dta](./Data/Analysis of Variance/11.ex.Sepsis.dta)
+* [11.ex.sepsis.long.441.dta](./Data/Analysis of Variance/11.ex.sepsis.long.441.dta)
+* [11.ex.sepsis.long1.dta](./Data/Analysis of Variance/11.ex.sepsis.long1.dta)
+* [AreaUnderCurve.wide1.dta](./Data/Analysis of Variance/AreaUnderCurve.wide1.dta)
+* [isopro.long.dta](./Data/Analysis of Variance/isopro.long.dta)
+* [10.8.ERpolymorphism.dta](./Data/Analysis of Variance/10.8.ERpolymorphism.dta)
+* [11.2.Isoproterenol.dta](./Data/Analysis of Variance/11.2.Isoproterenol.dta)
+* [11.2.long.isoproterenol.dta](./Data/Analysis of Variance/11.2.long.isoproterenol.dta)
+* [11.2.long.isoproterenol.dta](./Data/Analysis of Variance/11.2.long.isoproterinol.dta)
+
+
