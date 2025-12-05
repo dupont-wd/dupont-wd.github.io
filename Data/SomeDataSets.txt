@@ -1,0 +1,5 @@
+* [2.20.Framingham.dta](./Data/2.20.Framingham.dta)
+* [3.25.2.SUPPORT.dta](./Data/3.25.2.SUPPORT.dta)
+* [effect of order on line plots.dta](./Data/effect of order on line plots.dta)
+* [GlobalMeanTempByYear.dta](./Data/GlobalMeanTempByYear.dta)
+* [GlobalMeanTempByYear2016.dta](./Data/GlobalMeanTempByYear2016.dta)
