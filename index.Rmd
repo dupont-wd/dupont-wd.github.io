@@ -1,5 +1,5 @@
 ---
-title: "William D. Dupont"
+title: "William D. Dupont, PhD, FASA"
 output:
   prettydoc::html_pretty:
     theme: cayman
@@ -47,70 +47,74 @@ Epidemiology, breast disease, cancer, genetics, hormonal replacement therapy, sc
 
 I have worked for the last forty years in collaboration with David L. Page, MD and other clinical investigators at Vanderbilt, and for over a decade with Jeffrey R. Smith MD, PhD on research concerning the genetic and molecular epidemiology of prostate and breast cancer. Dr. Smith and I have collaborated to comprehensively understand the genetic architecture of a prominent cancer risk locus, and to develop accurate clinical risk prediction models encompassing prostate cancer risk loci. Much of my career has been focused on the application of novel and robust biostatistical techniques to the analysis of large databases as part of large epidemiologic studies and clinical trials. As part of this work, I have built and validated complex models of risk prediction. I have coauthored 248 peer-reviewed papers and been the principal investigator on five R01 grants. Most recently, we have collaborated on a study of the effects of tumor mutation burden on survival among patients with 32 types of cancer. This reference is given below on which I am the corresponding author. Four publications from my research with Dr. Smith are:
 
-* Blume JD, Greevy RA, Welty VF, Smith JR, Dupont WD. An Introduction to Second-Generation p-values. The American Statistician. 2019; 73(S1):157-67. Built upon genome-wide prostate cancer risk.
-* Dupont WD, Breyer JP, Plummer WD, Chang SS, Cookson MS, Smith JA, University of Washington Center for Mendelian G, Blue EE, Bamshad MJ, Smith JR. 8q24 genetic variation and comprehensive haplotypes altering familial risk of prostate cancer. Nat Commun. 2020;11:1523. https://doi.org/10.1038/s41467-020-15122-1  PMCID: PMC7089954.
-* Dupont WD, Breyer JP, Johnson SH, Plummer WD, Smith JR. Prostate cancer risk variants of the HOXB genetic locus. Sci Rep. 2021;11(1):11385. PMCID: PMC8167119.
-* Smith JR, Parl FF, Dupont WD. Mutation Burden Independently Predicts Survival in the Pan-Cancer Atlas. JCO Precis Oncol. 2023;7:e2200571. PMCID: PMC10309535.
+* Blume JD, Greevy RA, Welty VF, Smith JR, **Dupont WD**. An Introduction to Second-Generation p-values. The American Statistician. 2019; 73(S1):157-67. Built upon genome-wide prostate cancer risk.
+* **Dupont WD**, Breyer JP, Plummer WD, Chang SS, Cookson MS, Smith JA, University of Washington Center for Mendelian G, Blue EE, Bamshad MJ, Smith JR. 8q24 genetic variation and comprehensive haplotypes altering familial risk of prostate cancer. Nat Commun. 2020;11:1523. https://doi.org/10.1038/s41467-020-15122-1  PMCID: PMC7089954.
+* **Dupont WD**, Breyer JP, Johnson SH, Plummer WD, Smith JR. Prostate cancer risk variants of the HOXB genetic locus. Sci Rep. 2021;11(1):11385. PMCID: PMC8167119.
+* Smith JR, Parl FF, **Dupont WD**. Mutation Burden Independently Predicts Survival in the Pan-Cancer Atlas. JCO Precis Oncol. 2023;7:e2200571. PMCID: PMC10309535.
  
 ### Contributions to Science
 
 My most important contributions to science have concerned the relationship between benign breast disease and breast cancer risk. I have been the principal investigator on five NIH R01 grants on this topic.  In collaboration with Drs. David L. Page, Jeffrey R. Smith, and other clinical colleagues I have followed a cohort of 17,000 women with histologically confirmed benign breast disease and have performed nested case-control studies of histologic, immunohistochemical and genetic risk factors for breast cancer in these patients. This work has changed the clinical management of benign breast disease by distinguishing between those benign lesions that were, and were not, associated with increased breast cancer risk. More recently, I have collaborated with Dr. Smith on studies of familiar prostate cancer. Four important publications from this research are as follows:
 
-* Dupont WD and Page DL.  Risk factors for breast cancer in women with proliferative breast disease.  N Engl J Med. 1985; 312:146-51. PMID: 3965932.
-* Hartmann LC, Degnim AC, Santen RJ, Dupont WD, Ghosh K. Atypical hyperplasia of the breast--risk assessment and management options. N Engl J Med. 2015; 372(1):78-89. PMCID: PMC4347900.
-* Dupont WD, Blume JD, Smith JR. Building and Validating Complex Models of Breast Cancer Risk. JAMA Oncology. 2016; 2(10):1271-1272. PMCID: PMC5278770.
-* Dupont WD, Breyer JP, Plummer WD, Chang SS, Cookson MS, Smith JA, University of Washington Center for Mendelian G, Blue EE, Bamshad MJ, Smith JR. 8q24 genetic variation and comprehensive haplotypes altering familial risk of prostate cancer. Nat Commun. 2020;11:1523. https://doi.org/10.1038/s41467-020-15122-1 PMCID: PMC7089954.
+* **Dupont WD** and Page DL.  Risk factors for breast cancer in women with proliferative breast disease.  N Engl J Med. 1985; 312:146-51. PMID: 3965932.
+* Hartmann LC, Degnim AC, Santen RJ, **Dupont WD**, Ghosh K. Atypical hyperplasia of the breast--risk assessment and management options. N Engl J Med. 2015; 372(1):78-89. PMCID: PMC4347900.
+* **Dupont WD**, Blume JD, Smith JR. Building and Validating Complex Models of Breast Cancer Risk. JAMA Oncology. 2016; 2(10):1271-1272. PMCID: PMC5278770.
+* **Dupont WD**, Breyer JP, Plummer WD, Chang SS, Cookson MS, Smith JA, University of Washington Center for Mendelian G, Blue EE, Bamshad MJ, Smith JR. 8q24 genetic variation and comprehensive haplotypes altering familial risk of prostate cancer. Nat Commun. 2020;11:1523. https://doi.org/10.1038/s41467-020-15122-1 PMCID: PMC7089954.
 
 I have had a long-term interest in developing and facilitating power and sample size calculations. I designed and supervised the writing of the PS program for performing these calculations. This free software is extensively used by bio-medical scientists (search for PS power and sample size). Four publications on this topic are as follows:
 
-* Dupont WD.  Power calculations for matched case-control studies. Biometrics, 1988; 44:1157-68. PMID: 3233252
-* Dupont WD and Plummer WD.  Power and sample size calculations:  A review and computer program.  Controlled Clin Trials. 1990;11:116-28.  PMID: 2161310.
-* Dupont WD and Plummer WD. PS power and sample size program available for free on the Internet.  Controlled Clin Trials. 1997;18:274.
-* Dupont WD and Plummer WD. Power and sample size calculations for studies involving linear regression.  Controlled Clin Trials. 1998;19:589-601. PMID: 9875838.
+* **Dupont WD**.  Power calculations for matched case-control studies. Biometrics, 1988; 44:1157-68. PMID: 3233252
+* **Dupont WD** and Plummer WD.  Power and sample size calculations:  A review and computer program.  Controlled Clin Trials. 1990;11:116-28.  PMID: 2161310.
+* **Dupont WD** and Plummer WD. PS power and sample size program available for free on the Internet.  Controlled Clin Trials. 1997;18:274.
+* **Dupont WD** and Plummer WD. Power and sample size calculations for studies involving linear regression.  Controlled Clin Trials. 1998;19:589-601. PMID: 9875838.
  
 
 I am interested in the philosophical foundations of statistical inference, and how these principles should be used to improve inferences in medical science. Four papers on this topic are as follows:
 
-* Dupont WD.  Sequential stopping rules and sequentially adjusted P values:  Does one require the other?  Controlled Clin Trials. 1983; 4:3-10. PMID: 6851579.
-* Dupont WD.  Rejoinder:  statistical inference from trials with sequential stopping rules.  Controlled Clin Trials. 1983; 4:27-33. PMID: 6851578.
-* Dupont WD. Ethics and statistics in randomized clinical trials -- comment. Stat Science. 1991; 6:69-71.
-* Choi L, Blume JD, Dupont WD. Elucidating the Foundations of Statistical Inference with 2 x 2 Tables. PLoS ONE. 2015;10(4):e0121263. PMCID: PMC4388855.
+* **Dupont WD**.  Sequential stopping rules and sequentially adjusted P values:  Does one require the other?  Controlled Clin Trials. 1983; 4:3-10. PMID: 6851579.
+* **Dupont WD**.  Rejoinder:  statistical inference from trials with sequential stopping rules.  Controlled Clin Trials. 1983; 4:27-33. PMID: 6851578.
+* **Dupont WD**. Ethics and statistics in randomized clinical trials -- comment. Stat Science. 1991; 6:69-71.
+* Choi L, Blume JD, **Dupont WD**. Elucidating the Foundations of Statistical Inference with 2 x 2 Tables. PLoS ONE. 2015;10(4):e0121263. PMCID: PMC4388855.
  
 
 I have collaborated as a co-investigator and biostatistician with Drs. W.A. Ray and C.P. Chung on studies of pharmacoepidemiology. These studies have assessed clinical and genetic risks for azathioprine-associated leukopenia in routine clinical practice, the association of inflammation and comorbidity burden in patients with lupus erythematosus, the effect of short-acting opioids on opioid-related adverse events in adolescents,  the mortal risks associated with long-acting opioids prescribed for non-cancer pain and the risks of hospital associated bleeding in patients with atrial fibrillation associated with apixaban or rivaroxaban.
 
-* Ray WA, Chung CP, Stein CM, Smalley W, Zimmerman E, Dupont WD, Hung AM, Daugherty JR, Dickson A, Murray KT. Association of Rivaroxaban vs Apixaban With Major Ischemic or Hemorrhagic Events in Patients With Atrial Fibrillation. JAMA. 2021;326(23):2395-404. PMCID: PMC8693217.
-* Dickson AL, Daniel LL, Jackson E, Zanussi J, Yang W, Plummer WD, Dupont WD, Wei WQ, Nepal P, Hung AM, Cox NJ, Van Driest SL, Feng Q, Yang JJ, Stein CM, Mosley JD, Chung CP. Race, Genotype, and Azathioprine Discontinuation: A Cohort Study. Ann Intern Med. 2022;175(8):1092-9. PMCID: PMC9378477.
-* Corriere MA, Dickson AL, Daniel LL, Nepal P, Hall K, Plummer WD, Dupont WD, Murray KT, Stein CM, Ray WA, Chung CP. Duloxetine, Gabapentin, and the Risk for Acute Myocardial Infarction, Stroke, and Out-of-Hospital Death in Medicare Beneficiaries With Non-Cancer Pain. Clin J Pain. 2023;39(5):203-8. PMCID: PMC10127144.
-* Ray WA, Chung CP, Stein CM, Smalley W, Zimmerman E, Dupont WD, Hung AM, Daugherty JR, Dickson AL, Murray KT. Risk for Bleeding-Related Hospitalizations During Use of Amiodarone With Apixaban or Rivaroxaban in Patients With Atrial Fibrillation: A Retrospective Cohort Study. Ann Intern Med. 2023. PMID 37216662. 
+* Ray WA, Chung CP, Stein CM, Smalley W, Zimmerman E, **Dupont WD**, Hung AM, Daugherty JR, Dickson A, Murray KT. Association of Rivaroxaban vs Apixaban With Major Ischemic or Hemorrhagic Events in Patients With Atrial Fibrillation. JAMA. 2021;326(23):2395-404. PMCID: PMC8693217.
+* Dickson AL, Daniel LL, Jackson E, Zanussi J, Yang W, Plummer WD, **Dupont WD**, Wei WQ, Nepal P, Hung AM, Cox NJ, Van Driest SL, Feng Q, Yang JJ, Stein CM, Mosley JD, Chung CP. Race, Genotype, and Azathioprine Discontinuation: A Cohort Study. Ann Intern Med. 2022;175(8):1092-9. PMCID: PMC9378477.
+* Corriere MA, Dickson AL, Daniel LL, Nepal P, Hall K, Plummer WD, **Dupont WD**, Murray KT, Stein CM, Ray WA, Chung CP. Duloxetine, Gabapentin, and the Risk for Acute Myocardial Infarction, Stroke, and Out-of-Hospital Death in Medicare Beneficiaries With Non-Cancer Pain. Clin J Pain. 2023;39(5):203-8. PMCID: PMC10127144.
+* Ray WA, Chung CP, Stein CM, Smalley W, Zimmerman E, **Dupont WD**, Hung AM, Daugherty JR, Dickson AL, Murray KT. Risk for Bleeding-Related Hospitalizations During Use of Amiodarone With Apixaban or Rivaroxaban in Patients With Atrial Fibrillation: A Retrospective Cohort Study. Ann Intern Med. 2023. PMID 37216662. 
  
 
 I have collaborated as a co-investigator and biostatistician with Dr. Tina V. Hartert and colleagues on the causes and prevention of asthma. We have found considerable evidence that infantile bronchiolitis increases the risk of childhood asthma. Proving this association and finding ways to prevent lower-tract respiratory infections in infancy could have a major impact on health care costs and quality of life by reducing asthma incidence.  Four publications on this research are as follows:
 
-* Brunwasser SM, Snyder BM, Driscoll AJ, Fell DB, Savitz DA, Feikin DR, Skidmore B, Bhat N, Bont LJ, Dupont WD, Wu P, Gebretsadik T, Holt PG, Zar HJ, Ortiz JR, Hartert TV. Assessing the strength of evidence for a causal effect of respiratory syncytial virus lower respiratory tract infections on subsequent wheezing illness: a systematic review and meta-analysis. Lancet Respir Med. 2020;8(8):795-806. PMCID: PMC7464591.
-* Chirkova T, Rosas-Salazar C, Gebretsadik T, Jadhao SJ, Chappell JD, Peebles RS, Jr., Dupont WD, Newcomb DC, Berdnikovs S, Gergen PJ, Hartert TV, Anderson LJ. Effect of Infant RSV Infection on Memory T Cell Responses at Age 2-3 Years. Front Immunol. 2022;13:826666. PMCID: PMC8967987.
-* Snyder BM, Gebretsadik T, Rohrig NB, Wu P, Dupont WD, Dabelea DM, Fry RC, Lynch SV, McEvoy CT, Paneth NS, Ryckman KK, Gern JE, Hartert TV. The Associations of Maternal Health Characteristics, Newborn Metabolite Concentrations, and Child Body Mass Index among US Children in the ECHO Program. Metabolites. 2023;13(4):510. PMCID: PMC10144800.
-* Rosas-Salazar C, Chirkova T, Gebretsadik T, Chappell JD, Peebles RS, Jr., Dupont WD, Jadhao SJ, Gergen PJ, Anderson LJ, Hartert TV. Respiratory syncytial virus infection during infancy and asthma during childhood in the USA (INSPIRE): a population-based, prospective birth cohort study. Lancet. 2023; 20;401(10389):1669-1680. https://doi.org/10.1016/S0140-6736(23)00811-5. PMCID: PMC10367596.
+* Brunwasser SM, Snyder BM, Driscoll AJ, Fell DB, Savitz DA, Feikin DR, Skidmore B, Bhat N, Bont LJ, **Dupont WD**, Wu P, Gebretsadik T, Holt PG, Zar HJ, Ortiz JR, Hartert TV. Assessing the strength of evidence for a causal effect of respiratory syncytial virus lower respiratory tract infections on subsequent wheezing illness: a systematic review and meta-analysis. Lancet Respir Med. 2020;8(8):795-806. PMCID: PMC7464591.
+* Chirkova T, Rosas-Salazar C, Gebretsadik T, Jadhao SJ, Chappell JD, Peebles RS, Jr., **Dupont WD**, Newcomb DC, Berdnikovs S, Gergen PJ, Hartert TV, Anderson LJ. Effect of Infant RSV Infection on Memory T Cell Responses at Age 2-3 Years. Front Immunol. 2022;13:826666. PMCID: PMC8967987.
+* Snyder BM, Gebretsadik T, Rohrig NB, Wu P, **Dupont WD**, Dabelea DM, Fry RC, Lynch SV, McEvoy CT, Paneth NS, Ryckman KK, Gern JE, Hartert TV. The Associations of Maternal Health Characteristics, Newborn Metabolite Concentrations, and Child Body Mass Index among US Children in the ECHO Program. Metabolites. 2023;13(4):510. PMCID: PMC10144800.
+* Rosas-Salazar C, Chirkova T, Gebretsadik T, Chappell JD, Peebles RS, Jr., **Dupont WD**, Jadhao SJ, Gergen PJ, Anderson LJ, Hartert TV. Respiratory syncytial virus infection during infancy and asthma during childhood in the USA (INSPIRE): a population-based, prospective birth cohort study. Lancet. 2023; 20;401(10389):1669-1680. https://doi.org/10.1016/S0140-6736(23)00811-5. PMCID: PMC10367596.
+
+
+I have collaborated with Dr. Patrick and colleagues for the last five years on studies of neonatal abstinence syndrome, on access to treatment for addicted pregnant women, on the opioid epidemic, and on hepatitis C testing among perinatally exposed infants. The effects of opioid addiction can be devastating and improving the treatment of these children and their mothers is a high a priority. Four publications from this research are:
+
+*	Letterie MC, Patrick SW, Halvorson AE, **Dupont WD**, Carroll KN, Zickafoose JS, Williams SE. Factors Associated With Parental COVID-19 Vaccination Acceptance. Clin Pediatr (Phila). 2022;61(5-6):393-401. PMID: 35350918.
+*	Bulgin D, Patrick SW, McElroy T, McNeer E, **Dupont WD**, Murry VM. Patient and Community Factors Affecting Treatment Access for Opioid Use Disorder. Obstet Gynecol 2023;142(2):339-349. DOI: 10.1097/AOG.0000000000005227. PMCID: PMC10372722
+* Krishnapura SR, McNeer E, Loch SF, Reese T, Dudley J, Phillippi JC, Wiese AD, **Dupont WD**, Leech AA, Patrick SW. Buprenorphine Treatment in Pregnancy and Maternal-Infant Outcomes. JAMA Health Forum. 2025;6(4.11):e251814. PMCID: PMC12035657.
+* Loch SF, McNeer E, Fiscus M, **Dupont WD**, Patrick SW. Parental Perceptions of Tennessee's Mature Minor Doctrine. JAMA Netw Open. 2025;8(4):e255798.
+
  
 ## Positions and Employment
 
 ### At Vanderbilt University School of Medicine
 
-2013-present    Professor of Health Policy
-
-2009-2019       Vice-Chair for Academic Affairs, Department of Biostatistics
-
-1992- present   Professor of Biostatistics and Preventive Medicine
-
-1989-2003       Director, Division of Biostatistics
-
-1986-1992       Associate Professor of Preventive Medicine and Biostatistics (with tenure)
-
-1977-1985       Assistant Professor of Preventive Medicine and Biostatistics
+* 2013-present    Professor of Health Policy
+* 2009-2019       Vice-Chair for Academic Affairs, Department of Biostatistics
+* 1992- present   Professor of Biostatistics and Preventive Medicine
+* 1989-2003       Director, Division of Biostatistics
+* 1986-1992       Associate Professor of Preventive Medicine and Biostatistics (with tenure)
+* 1977-1985       Assistant Professor of Preventive Medicine and Biostatistics
 
 ### At University of Maryland, Baltimore County
 
-1976-1977     Lecturer, Department of Mathematics and Statistics
+* 1976-1977     Lecturer, Department of Mathematics and Statistics
 
 ## [Data used in Statistical Modeling for Biomedical Researchers & my MPH course](data.html)
 
