@@ -17,13 +17,12 @@ div.text {vertical-align: middle; display: table-cell;}
 <div class="img"><img src="photos/Dupont_William.jpg" width="200"/></div>
 <div class="text">
 **Professor of Biostatistics, Emeritus**<br/>
-Vanderbilt University
+Vanderbilt University Medical Center
 
 2525 West End Avenue, Suite 1100<br/>
-Room 11124<br/>
 Nashville Tennessee 37203-1741<br/>
 <br/>
-**Office Telephone:** &#x28;615&#x29; 343-4100<br/>
+**Telephone:** &#x28;615&#x29; 615-477-3685<br/>
 **Email:** [william.dupont\@vumc.org](mailto:william.dupont@vumc.org)<br/>
 
 M.Sc. Mathematics, McGill University <br/>
@@ -42,6 +41,7 @@ Epidemiology, breast disease, cancer, genetics, hormonal replacement therapy, sc
 * Fellow, American Statistical Association (elected 2009)
 * Academy for Excellence in Education (elected 2021)
 * Arbogast Collaborative Publication Award, 2021
+* Robert D. Collins Award for teaching medical or graduate students, 2026
 
 ## About
 
@@ -105,9 +105,10 @@ I have collaborated with Dr. Patrick and colleagues for the last five years on s
 
 ### At Vanderbilt University School of Medicine
 
-* 2013-present    Professor of Health Policy
+* 2026-present    Professor of Biostatistics, Emeritus
+* 2013-2026       Professor of Health Policy
 * 2009-2019       Vice-Chair for Academic Affairs, Department of Biostatistics
-* 1992- present   Professor of Biostatistics and Preventive Medicine
+* 1992-2026       Professor of Biostatistics and Preventive Medicine
 * 1989-2003       Director, Division of Biostatistics
 * 1986-1992       Associate Professor of Preventive Medicine and Biostatistics (with tenure)
 * 1977-1985       Assistant Professor of Preventive Medicine and Biostatistics
