@@ -1,0 +1,128 @@
+---
+title: "Data used in Statistical Modeling for Biomedical Researchers & my MPH course"
+output:
+  prettydoc::html_pretty:
+    theme: cayman
+    toc: no
+---
+
+<style>
+div#contact {display: table;}
+div.img  {vertical-align: middle; display: table-cell; padding-right:20px;}
+div.text {vertical-align: middle; display: table-cell;}
+</style>
+
+<div id="contact">
+
+
+## Data used in Statistical Modeling for Biomedical Researchers & my MPH course
+
+### Linear Regression
+
+* [2.18.Funding.dta](./Data/2.18.Funding.dta)
+* [2.20.Framingham.dta](./Data/2.20.Framingham.dta)
+* [2.20.framingham.xls](./Data/2.20.framingham.xls)
+* [3.ex.Funding.dta](./Data/3.ex.Funding.dta)
+* [8.12.Framingham.dta](./Data/8.12.Framingham.dta)
+* [8.7.Framingham.dta](./Data/8.7.Framingham.dta)
+* [vital_c.dta](./Data/vital_c.dta) 
+* [3.25.2.SUPPORT.dta](./Data/3.25.2.SUPPORT.dta)
+* [GlobalMeanTempByYear.dta](./Data/GlobalMeanTempByYear.dta)
+* [GlobalMeanTempByYear2016.dta](./Data/GlobalMeanTempByYear2016.dta)
+* [EffectOfOrderOnLinePlots.dta](./Data/linearRegression/EffectOfOrderOnLinePlots.dta)
+* [triceps.dta](./Data/linearRegression/triceps.dta)
+* [rostab11.dta](./Data/linearRegression/rostab11.dta)
+* [hospital.master.dta](./Data/linearRegression/hospital.master.dta)
+* [hospital.dta](./Data/linearRegression/hospital.dta)
+
+### Logistic Regression   
+
+* [1.3.2.Sepsis.bk1.dta](./Data/1.3.2.Sepsis.bk1.dta)
+* [1.3.2.Sepsis.dta](./Data/1.3.2.Sepsis.dta)
+* [1.4.11.Sepsis.dta](./Data/1.4.11.Sepsis.dta)
+* [10.7.ERpolymorphism.dta](./Data/10.7.ERpolymorphism.dta)
+* [11.2.Isoproterenol.dta](./Data/11.2.Isoproterenol.dta)
+* [11.2.Long.Isoproterenol.dta](./Data/11.2.Long.Isoproterenol.dta)
+* [11.AreaUnderCurve.dta](./Data/11.AreaUnderCurve.dta)
+* [11.ex.Sepsis.dta](./Data/11.ex.Sepsis.dta)
+* [2.12.Poison.dta](./Data/2.12.Poison.dta)
+* [2.ex.vonHippelLindau.dta](./Data/2.ex.vonHippelLindau.dta)
+* [4.11.Sepsis.dta](./Data/4.11.Sepsis.dta)
+* [4.18.Sepsis.dta](./Data/4.18.Sepsis.dta)
+* [4.21.EsophagealCa.dta](./Data/4.21.EsophagealCa.dta)
+* [4.ex.Sepsis.dta](./Data/4.ex.Sepsis.dta)
+* [5.5.EsophagealCa.dta](./Data/5.5.EsophagealCa.dta)
+* [5.ex.InjuryDeath.dta](./Data/5.ex.InjuryDeath.dta)
+* [6.9.Hemorrhage.dta](./Data/6.9.Hemorrhage.dta)
+* [6.ex.Breast.dta](./Data/6.ex.Breast.dta)
+* [8.8.2.Person-Years.dta](./Data/8.8.2.Person-Years.dta)
+* [8.8.2.Survival.dta](./Data/8.8.2.Survival.dta)
+* [8.ex.InjuryDeath.dta](./Data/8.ex.InjuryDeath.dta)
+* [sepsis.bk2.dta](./Data/sepsis.bk2.dta)
+* [effect of order on line plots.dta](./Data/effect of order on line plots.dta)
+* [4.18.Sepsis.Weighted.v12.dta](./Data/logistic regression/4.18.Sepsis.Weighted.v12.dta)
+* [4.18.Sepsis.Weighted.dta](./Data/logistic regression/4.18.Sepsis.Weighted.dta)
+* [3.25.2.SUPPORT.dta](./Data/logistic regression/3.25.2.SUPPORT.dta)
+* [sepsis.3.1.dta](./Data/logistic regression/sepsis.3.1.dta)
+* [review3BirthWeightAgeGroupedData2.dta](./Data/logistic regression/review3BirthWeightAgeGroupedData2.dta)
+* [proportions.dta](./Data/logistic regression/proportions.dta)
+* [EsophagealCaSmokerDrinkerInt.dta](./Data/logistic regression/EsophagealCaSmokerDrinkerInt.dta)
+* [cervix_ca.dta](./Data/logistic regression/cervix_ca.dta)
+* [CCinjDeath.dta](./Data/logistic regression/CCinjDeath.dta)
+
+### Analysis of Variance
+
+* [11.AreaUnderCurve1.dta](./Data/Analysis of Variance/11.AreaUnderCurve1.dta)
+* [11.ex.Sepsis.dta](./Data/Analysis of Variance/11.ex.Sepsis.dta)
+* [11.ex.sepsis.long.441.dta](./Data/Analysis of Variance/11.ex.sepsis.long.441.dta)
+* [11.ex.sepsis.long1.dta](./Data/Analysis of Variance/11.ex.sepsis.long1.dta)
+* [AreaUnderCurve.wide1.dta](./Data/Analysis of Variance/AreaUnderCurve.wide1.dta)
+* [isopro.long.dta](./Data/Analysis of Variance/isopro.long.dta)
+* [10.8.ERpolymorphism.dta](./Data/Analysis of Variance/10.8.ERpolymorphism.dta)
+* [11.2.Isoproterenol.dta](./Data/Analysis of Variance/11.2.Isoproterenol.dta)
+* [11.2.long.isoproterenol.dta](./Data/Analysis of Variance/11.2.long.isoproterenol.dta)
+* [11.2.long.isoproterenol.dta](./Data/Analysis of Variance/11.2.long.isoproterinol.dta)
+
+### Conditional Logistic Regression
+
+* [Asthma.dta](./Data/Conditional logistic regression/Asthma.dta)
+
+### Poisson Regression
+
+* [injuryPo.dta](./Data/Poisson/injuryPo.dta)
+* [2.20.Framingham.dta](./Data/Poisson/2.20.Framingham.dta)
+* [8.2.Framingham.dta](./Data/Poisson/8.2.Framingham.dta)
+* [8.7.Framingham.bk1.dta](./Data/Poisson/8.7.Framingham.bk1.dta)
+* [8.8.2.Person-Years.dta](./Data/Poisson/8.8.2.Person-Years.dta)
+* [8.8.2.Survival.dta](./Data/Poisson/8.8.2.Survival.dta)
+* [8.12.Framingham.dta](./Data/Poisson/8.12.Framingham.dta)
+
+### Review Data Sets
+
+* [review4HIV_RHCsurvival.dta](./Data/Review data sets/review4HIV_RHCsurvival.dta)
+* [review5HIV_RHCpoisson.dta](./Data/Review data sets/review5HIV_RHCpoisson.dta)
+* [review6LongitudinalStrep.dta](./Data/Review data sets/review6LongitudinalStrep.dta)
+* [review6LongitudinalStrep_long.dta](./Data/Review data sets/review6LongitudinalStrep_long.dta)
+* [review6LongitudinalStrep_Wide.dta](./Data/Review data sets/review6LongitudinalStrep_Wide.dta)
+* [review1BirthWeightAgeSmoking.dta](./Data/Review data sets/review1BirthWeightAgeSmoking.dta)
+* [review2BweightAgeSmokeRace.dta](./Data/Review data sets/review2BweightAgeSmokeRace.dta)
+* [review3BirthWeightAgeGroupedData.dta](./Data/Review data sets/review3BirthWeightAgeGroupedData.dta)
+
+### Survival Analysis
+
+* [Framingham.Competing.dta](./Data/Survival Analysis/Framingham.Competing.dta)
+* [lymphoma.dta](./Data/Survival Analysis/lymphoma.dta)
+* [NBC_40yearsJittered.dta](./Data/Survival Analysis/NBC_40yearsJittered.dta)
+* [plot.dta](./Data/Survival Analysis/plot.dta)
+* [plot47.dta](./Data/Survival Analysis/plot47.dta)
+* [plot57.dta](./Data/Survival Analysis/plot57.dta)
+* [plotmen.dta](./Data/Survival Analysis/plotmen.dta)
+* [plotold.dta](./Data/Survival Analysis/plotold.dta)
+* [plotwomen.dta](./Data/Survival Analysis/plotwomen.dta)
+* [2.20.Framingham.dta](./Data/Survival Analysis/2.20.Framingham.dta)
+* [a.dta](./Data/Survival Analysis/a.dta)
+* [b.dta](./Data/Survival Analysis/b.dta)
+* [Breast.dta](./Data/Survival Analysis/Breast.dta)
+* [cummorb.dta](./Data/Survival Analysis/cummorb.dta)
+
+

@@ -16,7 +16,7 @@ div.text {vertical-align: middle; display: table-cell;}
 
 <div class="img"><img src="photos/Dupont_William.jpg" width="200"/></div>
 <div class="text">
-**Professor of Biostatistics and Health Policy**<br/>
+**Professor of Biostatistics, Emeritus**<br/>
 Vanderbilt University
 
 2525 West End Avenue, Suite 1100<br/>
@@ -30,7 +30,7 @@ M.Sc. Mathematics, McGill University <br/>
 Ph.D., Biostatistics, Johns Hopkins University
 </div>
 </div>
-## [CURRICULUM VITAE](DupontWD_CV_2025_12_12.pdf)<br/>
+## [CURRICULUM VITAE](DupontWD_CV.pdf)<br/>
 
 ## Research Interests
 
