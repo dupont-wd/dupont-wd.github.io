@@ -24,6 +24,22 @@ In Rstudio click on Knit.  This will create an updated index.html file in the sa
 
 Click on this file to make sure it looks ok.
 
+Repeat for data.Rmd and data.html files if modified.
+
+Open GitHib Desktop Application from start menu.  Open Start menu. Type GitHub in search bar. Click the GitHub Desktop app link under best matches.
+
+In GitHub Desktop select the dupont-wd.github.io repository in the upper left hand Drop Down under the menu bar.
+
+The app will now display any uncommitted modifications to repository in Left hand side bar. Click on each entry to view changes in the file difference window to the right. Verify that the changes are what you expect.
+
+In the summary text box in the lower part of the sidebar type a short description of the modifications made to the files.
+
+If you wish you can put a more detailed description of the changes in the Description Text Area below the Summary Text Box.
+
+Click the Commit Button below the description text area.
+
+Next Push the commits to GitHub by pushing the Push to Origin button in the Upper Right below the menu bar.
+
 Then go to https://github.com/dupont-wd/dupont-wd.github.io
 
 Click on Add file and select Upload files.
