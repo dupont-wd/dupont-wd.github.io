@@ -16,9 +16,9 @@ div.text {vertical-align: middle; display: table-cell;}
 
 <div class="img"><img src="photos/Dupont_William.jpg" width="200"/></div>
 <div class="text">
-**Professor of Biostatistics, Emeritus**<br/>
-Vanderbilt University Medical Center
-
+**Professor Emeritus of Biostatistics**<br/>
+Vanderbilt University Medical Center<br/>
+Department of Biostatistics<br/>
 2525 West End Avenue, Suite 1100<br/>
 Nashville Tennessee 37203-1741<br/>
 <br/>
